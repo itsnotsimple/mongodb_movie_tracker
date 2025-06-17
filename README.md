@@ -29,4 +29,4 @@ MovieTracker е MongoDB база данни за онлайн кино плат�
 movie-tracker
 ├── insert.js  
 ├── queries.js 
-└── README.md  
+└── README.md
