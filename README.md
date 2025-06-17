@@ -78,7 +78,7 @@
 ##  Инсталация и употреба
 
 ```bash
-git clone 
+git clone https://github.com/itsnotsimple/mongodb_movie_tracker
 cd moviestream-mongodb
 npm install mongodb
 node run.js
